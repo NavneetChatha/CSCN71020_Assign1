@@ -20,7 +20,8 @@ int main() {      //changed to int
 	{
 	case 1:
 		add();
-		break;          //added break statement 
+		break;
+		          //added break statement 
 
 	case 2:
 		subtract();         //use the subtract function for option 2
